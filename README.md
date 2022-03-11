@@ -3,6 +3,8 @@ With a MVVM Pattern as example to automate the creation of multiple files with o
 
 <img width="701" src="https://github.com/YamamotoDesu/Custom-Templates/blob/main/customTemplate.gif">
 
+<img width="1512" src="https://user-images.githubusercontent.com/47273077/157778097-cf23e9a0-5204-42b0-92ea-decebd1db313.png">
+
 ## Set a custom Template
 ### 1. Locate your custom template 
 <img width="411" src="https://user-images.githubusercontent.com/47273077/157776558-354198ff-ae12-48e6-bcc1-91837f66c94f.png">
