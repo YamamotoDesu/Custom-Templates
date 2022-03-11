@@ -1,6 +1,7 @@
 # [Custom-Templates](https://simaspavlos.medium.com/create-custom-templates-for-xcode-6ab337403d20)
 With a MVVM Pattern as example to automate the creation of multiple files with one click
 
+<img width="701" src="https://user-images.githubusercontent.com/47273077/157777970-0e6dde78-b820-4d50-b203-55148623b8c0.png">
 
 ## Set a custom Template
 ### 1. Locate your custom template 
